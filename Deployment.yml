@@ -7,4 +7,4 @@ spec:
   -image: nginx
   name: nginx-demoapp
   ports:
-    -containerPort: 90
+    -containerPort: 99
